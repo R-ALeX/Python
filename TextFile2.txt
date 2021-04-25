@@ -1,0 +1,9 @@
+Petrov - 34000
+Fedorova - 52000
+Annenkov - 45000
+Raskolnikov - 18000
+Shpik - 15000
+Nesterova - 27000
+Shatalov - 73000
+Kuznetsova - 53000
+Vasilev - 15000
